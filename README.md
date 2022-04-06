@@ -9,7 +9,11 @@
 
 *You can go to https://sites.google.com/a/chromium.org/chromedriver/downloads for reference to download the driver accordingly, to the version of the Chrome you have, after doing that if you're using Mac be sure to change the name of chromedriver downloaded, to be like this: chromedriver.mac, for windows should be: chromedriver.exe, for linux: chromedriver.linux*
 
-*This project was created with the intention of testing any web application by using Page Object Model also with Selenium + Cucumber + Java, using Java Functional and Page Object Model as the Pattern*
+*This project was created with the intention of testing any web application by using Page Object Model also with Selenium + Cucumber + Java, using Java Functional*
+
+*The Screenshot is in the folder under Resources -> Screenshot*
+
+*Note: There are many test cases that can be added as End To End Flow, would be great if you guys can specify better what to test, instructions are a bit confusing on what's (Happy Path).*
 
 *Don't hesitate to ask questions regarding the project*
 ****
